@@ -1,0 +1,26 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# BenchmarkDotNet artifacts
+BenchmarkDotNet.Artifacts/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# OS files
+.DS_Store
+Thumbs.db
